@@ -1,4 +1,4 @@
-
+# Multiplication-Table-App
 
 ![1](https://raw.githubusercontent.com/muratkuk/Multiplication-Table-App/main/img/1.png)
 
