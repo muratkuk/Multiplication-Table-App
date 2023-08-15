@@ -1,0 +1,11 @@
+Exercise log for child1, exercise: ilk;;;;
+Start time: Thu Jun 08 20:31:25 TRT 2023;;;;
+End time: Thu Jun 08 20:31:37 TRT 2023;;;;
+SpeedScore;AccuracyScore
+100000;100
+Questions;Results;ResponseTime
+3 x 2;correct;5
+1 x 2;correct;2
+1 x 5;correct;1
+3 x 6;correct;1
+2 x 5;correct;1

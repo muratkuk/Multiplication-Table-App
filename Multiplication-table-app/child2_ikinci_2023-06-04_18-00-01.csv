@@ -1,0 +1,13 @@
+Exercise log for child2, exercise: ikinci;;;;
+Start time: Sun Jun 04 18:00:01 TRT 2023;;;;
+End time: Sun Jun 04 18:00:12 TRT 2023;;;;
+SpeedScore;AccuracyScore
+125000;85
+Questions;Results;ResponseTime
+1 x 2;correct;2
+1 x 7;correct;1
+4 x 1;correct;0
+3 x 2;correct;1
+2 x 6;correct;1
+4 x 4;correct;2
+4 x 3;incorrect;1
