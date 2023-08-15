@@ -1,9 +1,13 @@
 
-![1.png](img\1.png)
 
-![1.png](img\2.png)
+![1](https://raw.githubusercontent.com/muratkuk/Multiplication-Table-App/main/img/1.png)
 
-![1.png](img\3.png)
+![2](https://raw.githubusercontent.com/muratkuk/Multiplication-Table-App/main/img/2.png)
 
-![1.png](img\4.png)
+![3](https://raw.githubusercontent.com/muratkuk/Multiplication-Table-App/main/img/3.png)
+
+![4](https://raw.githubusercontent.com/muratkuk/Multiplication-Table-App/main/img/4.png)
+
+
+
 
